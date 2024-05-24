@@ -20,3 +20,5 @@
 
 
 希望这些推荐能够帮助到你，如果有更多的好站点，也请不吝分享！
+
+[ChatGPT镜像列表 - 最佳网址导航](https://github.com/treniteevywxihr/ChatGPT-Mirroring)
